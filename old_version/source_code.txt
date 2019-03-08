@@ -1,0 +1,739 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+	<head>
+		<!-- META DATA -->
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+		<meta charset="UTF-8">
+		<meta name="author" content="Studio Themes"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		 
+		
+		<link rel='stylesheet' id='layerslider-css'  href='http://www.accentjanitorial.com/modules/LayerSlider/static/css/layerslider.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.accentjanitorial.com/modules/contact-form-7/includes/css/styles.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.accentjanitorial.com/modules/revslider/rs-plugin/css/settings.css?rev=4.3.8&#038;ver=4.1.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+
+.largeredbtn {  
+font-family: "Raleway", sans-serif;
+font-weight: 900;
+font-size: 16px;
+line-height: 60px;
+color: #fff !important;
+text-decoration: none;
+padding-left: 40px;
+padding-right: 80px;
+padding-top: 22px;
+padding-bottom: 22px;
+background: rgb(234,91,31); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(234,91,31,1) 0%, rgba(227,58,12,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(234,91,31,1)), color-stop(100%,rgba(227,58,12,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(234,91,31,1) 0%,rgba(227,58,12,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5b1f', endColorstr='#e33a0c',GradientType=0 ); /* IE6-9 */
+}
+
+.largeredbtn:hover {
+background: rgb(227,58,12); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(227,58,12,1) 0%, rgba(234,91,31,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(227,58,12,1)), color-stop(100%,rgba(234,91,31,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(227,58,12,1) 0%,rgba(234,91,31,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e33a0c', endColorstr='#ea5b1f',GradientType=0 ); /* IE6-9 */      
+}
+
+.fullrounded img {
+   -webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px; 
+  }
+</style>
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://www.accentjanitorial.com/modules/revslider/rs-plugin/css/captions.php?rev=4.3.8&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpclef-main-css'  href='http://www.accentjanitorial.com/modules/wpclef/assets/dist/css/main.min.css?ver=2.2.9.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='ie-css-css'  href='http://www.accentjanitorial.com/template/assets/css/ie.css?ver=4.1.1' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://www.accentjanitorial.com/template/assets/css/font-awesome-ie7.min.css?ver=4.1.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='style-css'  href='http://www.accentjanitorial.com/template/template/css/main.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.accentjanitorial.com/template/assets/css/bootstrap.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.accentjanitorial.com/template/assets/css/font-awesome.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='linecons-css'  href='http://www.accentjanitorial.com/template/assets/css/linecons.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A400%2C800%2C700%2C500%2C300%2C100&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ABeeZee-css'  href='http://fonts.googleapis.com/css?family=ABeeZee&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ot-dynamic-dynamic_css-css'  href='http://www.accentjanitorial.com/template/dynamic.css?ver=2.1.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.accentjanitorial.com/lib/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/lib/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/modules/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/modules/LayerSlider/static/js/greensock.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/modules/LayerSlider/static/js/layerslider.transitions.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/modules/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.8&#038;ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/modules/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.8&#038;ver=4.1.1'></script>
+<script type='text/javascript' src='http://html5shim.googlecode.com/svn/trunk/html5.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/template/assets/js/mobile_var.js?ver=4.1.1'></script>
+<title>Accent Janitorial | Experience The Difference - Accent Janitorial Services Toronto Official Web Page</title>
+			
+							<style id="tt-easy-google-font-styles" type="text/css">
+			
+																						p {
+													}
+								
+																										h1 {
+													}
+								
+																										h2 {
+													}
+								
+																										h3 {
+													}
+								
+																										h4 {
+													}
+								
+																										h5 {
+													}
+								
+																										h6 {
+													}
+								
+																										 {
+							font-family: 'Helvetica'; font-style: normal; font-weight: 400; 						}
+								
+										
+							</style>
+						 
+	</head>
+	<body class="home page page-id-385 page-template page-template-page_onepage page-template-page_onepage-php"> 
+
+
+<!-- MAIN MENU -->
+<nav id="main_menu" class="general_bg "> 
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="container_logo">
+					<div class="logo">
+													<a href="http://www.accentjanitorial.com"><img alt="Logo" title="logo" src="	http://www.accentjanitorial.com/uploads/2015/02/logo-mavi-fon2.png" class="img-responsive"></a>
+													
+					</div>
+				</div>
+				<div class="container_menu visible-md visible-lg" id="desktop-menu">
+						<div class="menu-main-menu-container"><ul id="nav" class="menu scrolling-links"><li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="http://www.accentjanitorial.com/#home">Home</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-407"><a href="http://www.accentjanitorial.com/#about-us">About Us</a></li>
+<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-has-children menu-item-406"><a href="http://www.accentjanitorial.com/#services">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-549"><a href="http://www.accentjanitorial.com/#janitorial-services">Janitorial Services</a></li>
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-548"><a href="http://www.accentjanitorial.com/#specialty-services">Specialty Services</a></li>
+</ul>
+</li>
+<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-547"><a href="http://www.accentjanitorial.com/#opportunities">Opportunities</a></li>
+<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-546"><a href="http://www.accentjanitorial.com/#quality-guarantee">Quality Guarantee</a></li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-523"><a href="http://www.accentjanitorial.com/#contact">Contact</a></li>
+</ul></div>                 
+				</div>
+				<div class="container_menu hidden-md hidden-lg">
+					<div class="menu-mobile-button general_color">
+						<i class="icon-reorder"></i>
+					</div>
+				</div>
+				<div class="clearfix"></div>			
+			</div>
+		</div>
+	</div>
+	<!-- MOBILE MENU -->
+		<div class="hidden-md hidden-lg">
+			<div id="mobile-menu">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="menu-main-menu-container"><ul id="mobile_menu" class="mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="http://www.accentjanitorial.com/#home">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-407"><a href="http://www.accentjanitorial.com/#about-us">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-has-children menu-item-406"><a href="http://www.accentjanitorial.com/#services">Services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-549"><a href="http://www.accentjanitorial.com/#janitorial-services">Janitorial Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-548"><a href="http://www.accentjanitorial.com/#specialty-services">Specialty Services</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-547"><a href="http://www.accentjanitorial.com/#opportunities">Opportunities</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-546"><a href="http://www.accentjanitorial.com/#quality-guarantee">Quality Guarantee</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-onepage menu-item-523"><a href="http://www.accentjanitorial.com/#contact">Contact</a></li>
+</ul></div>  <!-- Here menu mobile items -->
+						</div> 
+					</div>
+				</div>
+			</div>
+		</div>
+</nav>
+<!-- HEADER -->
+	<header id="home" class="slide-menu" style="height: auto !important;">
+		<!-- START REVOLUTION SLIDER 4.3.8 fullscreen mode -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,800,300italic,800italic" rel="stylesheet" type="text/css" media="all" />
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullscreen-container" style="background-color:#ededed;padding:0px;">
+	<div id="rev_slider_1_1" class="rev_slider fullscreenbanner" style="display:none;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="1200" data-delay="4500" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.accentjanitorial.com/uploads/revslider/slider_2/lighter.jpg"  alt="lighter"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption lft"
+			data-x="center" data-hoffset="11"
+			data-y="center" data-voffset="-34"
+			data-speed="500"
+			data-start="1500"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="4200"
+data-endspeed="300"
+			style="z-index: 2;"><img src="http://www.accentjanitorial.com/uploads/revslider/slider_2/logo-beyaz-fon.png" alt="">
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption medium_light_black tp-fade tp-resizeme"
+			data-x="center" data-hoffset="29"
+			data-y="center" data-voffset="72"
+			data-speed="300"
+			data-start="2100"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="4700"
+data-endspeed="300"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Experience The Difference
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption modern_red_button sfr tp-resizeme"
+			data-x="center" data-hoffset="8"
+			data-y="center" data-voffset="121"
+			data-speed="300"
+			data-start="2700"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="4200"
+data-endspeed="300"
+			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><a href="http://www.accentjanitorial.com/#about-us" title="More" target="_self" style="text-decoration:none; color:#fff;">Learn More</a>
+		</div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption medium_blue tp-fade tp-resizeme"
+			data-x="301"
+			data-y="125" 
+			data-speed="300"
+			data-start="3000"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">What can Accent Janitorial Services do for you?
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-delay="4000" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.accentjanitorial.com/uploads/revslider/slider_2/5446075283_62d6dc5466_b.jpg"  alt="5446075283_62d6dc5466_b"  data-bgposition="center top" data-kenburns="on" data-duration="4500" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="100" data-bgpositionend="center top">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption mediumlarge_light_darkblue sfl tp-resizeme"
+			data-x="119"
+			data-y="center" data-voffset="-205"
+			data-speed="400"
+			data-start="100"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3700"
+data-endspeed="300"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Provide you with a clean, safe, and healthy <br> environment for your customers and employees
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption medium_light_white lft tp-resizeme"
+			data-x="290"
+			data-y="center" data-voffset="-130"
+			data-speed="600"
+			data-start="200"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.35"
+			data-endelementdelay="0.1"
+			data-end="3700"
+data-endspeed="300"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">- Clean buildings project a first class image.
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption medium_light_white sfl tp-resizeme"
+			data-x="111"
+			data-y="center" data-voffset="-75"
+			data-speed="400"
+			data-start="300"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3700"
+data-endspeed="300"
+			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">- Clean buildings improve the longevity of the building.
+		</div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption medium_light_white sfl tp-resizeme"
+			data-x="53"
+			data-y="242" 
+			data-speed="300"
+			data-start="400"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">- Healthy buildings ensure a working environment free from contaminates.
+		</div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption medium_light_white sfl tp-resizeme"
+			data-x="24"
+			data-y="center" data-voffset="48"
+			data-speed="400"
+			data-start="500"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3700"
+data-endspeed="300"
+			style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">- Healthy buildings provide a safer workplace and decrease the number of workers <br>     comp claims due to slip/fall accidents and the spread of viruses.
+		</div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption medium_light_white sfl tp-resizeme"
+			data-x="374"
+			data-y="center" data-voffset="130"
+			data-speed="400"
+			data-start="600"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3700"
+data-endspeed="300"
+			style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">- Healthy buildings reduce the amount of sick time <br> taken by employees working in the building.
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-delay="3800" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.accentjanitorial.com/uploads/revslider/slider_2/office.jpg"  alt="office"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption largewhitetxt sfr tp-resizeme"
+			data-x="right" data-hoffset="-123"
+			data-y="center" data-voffset="-235"
+			data-speed="400"
+			data-start="500"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3500"
+data-endspeed="300"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Accent Janitorial Services | Experience The Difference
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption largewhitetxt sfr tp-resizeme"
+			data-x="right" data-hoffset="-37"
+			data-y="center" data-voffset="-18"
+			data-speed="400"
+			data-start="1100"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3500"
+data-endspeed="300"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">We understand that a clean work environment means a healthy work <br> environment for you and your employees. <br> Before engaging our services, we provide all clients with a free, <br> no-obligation Needs Analysis and consultation with our friendly staff.
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption modern_blue_button sfb str tp-resizeme"
+			data-x="right" data-hoffset="-463"
+			data-y="center" data-voffset="167"
+			data-speed="400"
+			data-start="1700"
+			data-easing="Linear.easeNone"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-end="3500"
+data-endspeed="300"
+			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><a href="http://www.accentjanitorial.com/#contact" title="Start Today" target="_self" style="text-decoration:none; color:#fff;">Start Today</a>
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom"></div>	</div>
+</div>			
+			<script type="text/javascript">
+
+				var tpj=jQuery;				
+				tpj.noConflict();				
+				var revapi1;
+				
+				tpj(document).ready(function() {
+								
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:15000,
+						startwidth:980,
+						startheight:550,
+						hideThumbs:10,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:3,
+						
+						navigationType:"none",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						swipe_velocity: 0.7,
+						swipe_min_touches: 1,
+						swipe_max_touches: 1,
+						drag_block_vertical: false,
+												
+						keyboardNavigation:"off",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:0,
+						fullWidth:"off",
+						fullScreen:"on",
+
+						spinner:"spinner3",
+						
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						
+						shuffle:"off",
+						
+												
+						forceFullWidth:"off",						
+						fullScreenAlignForce:"off",						
+						minFullScreenHeight:"",						
+												
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0,
+						videoJsPath:"http://www.accentjanitorial.com/wp-content/plugins/revslider/rs-plugin/videojs/",
+						fullScreenOffsetContainer: ""	
+					});
+				
+				});	//ready
+				
+			</script>
+			
+			<style type="text/css">
+	#rev_slider_1_1_wrapper .tp-loader.spinner3 div { background-color: #FFFFFF !important; }
+</style>
+<!-- END REVOLUTION SLIDER --> 
+	</header>
+
+											
+<div id="opportunities" style="" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" >
+							<h2><span class="fs1" data-icon="&#xe002;"></span>Opportunities</h2>							<div class="head-line" ></div>
+						</div>
+										
+						<h5 style="text-align: center;"><span style="color: #009dd3;">Accent Janitorial Services</span><strong>,</strong> recognizes that the talent and experience of our employees are our most valuable resources. Utilizing extensive management and employee training programs, we identify and develop talented performers and grant them broad responsibilities and authority consistent with their potential and demonstrated skill levels. This enables them to grow with Accent Janitorial Services<strong>,</strong> and the clients we serve.</h5>
+<h5 style="text-align: center;">Our salary structure and compensation program provides incentives, which motivate, accelerate, and appropriately reward top performers for their dedication</h5>
+<h5 style="text-align: center;">At Accent Janitorial Services we are always looking for new vibrant individuals to join our growing team. After-hours cleaning is a great opportunity to subsidize your income or for stay at home parents who need to spend the day at home with their. No experience is required we will provide you with the necessary training and equipment.</h5>
+<h5 style="text-align: center;">For further information please contact us at <span style="color: #009dd3;"><a style="color: #009dd3;" href="mailto:info@accentjanitorial.com">info@accentjanitorial.com</a></span></h5>
+					 
+				</div>
+			</div>
+					</div>	
+							
+<div id="quality-guarantee" style="" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" >
+							<h2><span class="fs1" data-icon="&#xe01a;"></span>Quality Guarantee</h2>							<div class="head-line" ></div>
+						</div>
+										
+						<h5 style="text-align: justify;"><span style="color: #009dd3;">Accent Janitorial Services</span>’ ability to provide unparalleled service value and to grow with our customers over time is the result of the experience and dedication of our on-site managers. Our primary operations objective is to provide ongoing training to our staff and managers to consistently strive for excellence and to support them with our resources and capabilities. Our inspectors perform monthly inspection during regular working hours, in order to have chance to talk to our clients to get their feed back. The result: our clients regard our on-site managers as vital team players in achieving their long-term goals.</h5>
+					 
+				</div>
+			</div>
+					</div>	
+							
+<div id="about-us" style="background-color:#FFFFFF" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" >
+							<h2><span class="fs1" data-icon="&#xe014;"></span>About Us</h2>							<div class="head-line" ></div>
+						</div>
+										
+						<div class="col-md-12 column"> <div class="slogan default"><h2> <span style="color: #009dd3;"><a style="color: #009dd3;" title="Accent Janitorial" href="http://www.accentjanitorial.com">ACCENT JANITORIAL</a></span></h2></div></div>
+<h5><div class="col-md-12 column"></div><div class="text default"><H5></H5></div> Accent Janitorial Services was started by a team of enthusiastic and dedicated individuals that have a combined experience of 40 years. We bring forward this experience to our clients in the GTA and surrounding areas. In order to deliver a customized service program, we recruit, train, and manage a productive labour force. We also take on responsibility for carrying out the primary mission of our clients’ facilities; each employee plays an integral role in meeting our clients’ goals. In addition our employees understand that our company must provide the highest quality service at a competitive price in order to retain our position as one of GTA’s leading providers of facilities services. The objective of Accent Janitorial Service is to ensure our clients the highest quality service at a reasonable price point.</h5>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+					 
+				</div>
+			</div>
+					</div>	
+							
+<div id="services" style="background-color:#009dd3" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" style="color:#ffffff;">
+							<h2><span class="fs1" data-icon="&#xe00e;"></span>Services</h2>							<div class="head-line" style="background-color:#ffffff;"></div>
+						</div>
+										
+											 
+				</div>
+			</div>
+					</div>	
+							
+<div id="janitorial-services" style="" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" >
+							<h2><span class="fs1" data-icon="&#xe00f;"></span>Janitorial Services</h2>							<div class="head-line" ></div>
+						</div>
+										
+						<p>Commercial</p>
+<p>Accent Janitorial Services provides commercial cleaning to all of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Our experienced personnel perform light and heavy-duty basic cleaning for our clients. Together with our clients we agree on a schedule (x) times during the week depending on their requirements. Daily duties refer to removal of trash, spot cleaning stains/marks, dusting, vacuuming and mopping floors. Thoroughly sanitizing of all washrooms, as well as cleaning microwaves and eating areas. On a weekly basis we perform a detail cleaning of the site that includes wall to wall vacuuming as well as dusting areas that have a need for a more detail. We ensure that your commercial spaces will look and fell fresh after each visit.</p>
+<p>Retail</p>
+<p>Accent Janitorial Services provides retail cleaning to all of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Our experienced personnel perform light and heavy-duty basic cleaning for our clients. Together with our clients we agree on a schedule (x) times during the week depending on their requirements. We service retail clients and their needs to make an impact for their business. In retail the focus is mostly on a clean looking floor, therefore we recommend a full floor care either yearly or every six months. Also we ensure that dusting is performed regularly. Ensuring that your retail space looks its best each time is one of our specialties.</p>
+<p>Health Care</p>
+<p>The health care cleaning sector needs more specialized chemicals and equipment due to that fact that a lot of the traffic in these areas will be from people that have some sort illness. These include doctor’s offices as well as medical centres and facilities. Accent Janitorial Services provides health care sector cleaning to all of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Our experienced personnel perform medical facilities cleaning using disinfectant for their light and heavy-duty basic cleaning for our clients. Together with our clients we agree on a schedule (x) times during the week depending on their requirements. We also make sure that staff areas are serviced and sanitized to ensure that viruses do not spread from examination rooms.</p>
+<p>Day Porters</p>
+<p>Accent Janitorial Services provides day porters for all clients of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Day porters guarantee that you will have a continuous presence of a cleaning staff in your premises to ensure that any situations are dealt with on a timely basis.</p>
+<p>We understand that a clean work environment means a healthy work environment for you and your employees. Before engaging our services, we provide all clients with a free, no-obligation Needs Analysis and consultation with our friendly staff.</p>
+					 
+				</div>
+			</div>
+					</div>	
+							
+<div id="specialty-services" style="" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" >
+							<h2><span class="fs1" data-icon="&#xe00f;"></span>Specialty Services</h2>							<div class="head-line" ></div>
+						</div>
+										
+						<p>Commercial</p>
+<p>Accent Janitorial Services provides commercial cleaning to all of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Our experienced personnel perform light and heavy-duty basic cleaning for our clients. Together with our clients we agree on a schedule (x) times during the week depending on their requirements. Daily duties refer to removal of trash, spot cleaning stains/marks, dusting, vacuuming and mopping floors. Thoroughly sanitizing of all washrooms, as well as cleaning microwaves and eating areas. On a weekly basis we perform a detail cleaning of the site that includes wall to wall vacuuming as well as dusting areas that have a need for a more detail. We ensure that your commercial spaces will look and fell fresh after each visit.</p>
+<p>Retail</p>
+<p>Accent Janitorial Services provides retail cleaning to all of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Our experienced personnel perform light and heavy-duty basic cleaning for our clients. Together with our clients we agree on a schedule (x) times during the week depending on their requirements. We service retail clients and their needs to make an impact for their business. In retail the focus is mostly on a clean looking floor, therefore we recommend a full floor care either yearly or every six months. Also we ensure that dusting is performed regularly. Ensuring that your retail space looks its best each time is one of our specialties.</p>
+<p>Health Care</p>
+<p>The health care cleaning sector needs more specialized chemicals and equipment due to that fact that a lot of the traffic in these areas will be from people that have some sort illness. These include doctor’s offices as well as medical centres and facilities. Accent Janitorial Services provides health care sector cleaning to all of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Our experienced personnel perform medical facilities cleaning using disinfectant for their light and heavy-duty basic cleaning for our clients. Together with our clients we agree on a schedule (x) times during the week depending on their requirements. We also make sure that staff areas are serviced and sanitized to ensure that viruses do not spread from examination rooms.</p>
+<p>Day Porters</p>
+<p>Accent Janitorial Services provides day porters for all clients of GTA and surrounding areas. We cover areas from Oshawa to Hamilton, from Downtown Toronto all the way to Barrie. Day porters guarantee that you will have a continuous presence of a cleaning staff in your premises to ensure that any situations are dealt with on a timely basis.</p>
+<p>We understand that a clean work environment means a healthy work environment for you and your employees. Before engaging our services, we provide all clients with a free, no-obligation Needs Analysis and consultation with our friendly staff.</p>
+					 
+				</div>
+			</div>
+					</div>	
+							
+<div id="contact" style="background-color:#FFFFFF" class="img_size clearfix text-edit slide-menu">
+						<div class="container">
+				<div class="row">
+				
+											<div class="title" >
+							<h2><span class="fs1" data-icon="&#xe019;"></span>Contact</h2>							<div class="head-line" ></div>
+						</div>
+										
+						<div class="col-md-12 column">
+<div class="slogan default"><h2> Let&#8217;s get connected to Experience the Difference ! </h2></div>
+<p></div><div class="divider-1"></div><div class="col-md-12 column"> 	<div class="contact-info default">
+					<div class="col-md-3 contact-content">
+						<div class="style-icon-1 general_bg">
+							<i class="icon-map-marker"></i>
+						</div>
+						<div class="contact-text-info">
+							<span>Address:</span> 944 Pharmacy Avenue M1R 2G3 , Toronto / Ontario
+						</div>
+					</div>
+					<div class="col-md-3 contact-content">
+						<div class="style-icon-1 general_bg">
+							<i class="icon-phone"></i>
+						</div>
+						<div class="contact-text-info">
+							<span>Phone:</span> 1844-322-23 68
+						</div>
+					</div>
+					<div class="col-md-3 contact-content">
+						<div class="style-icon-1 general_bg">
+							<i class="icon-print"></i>
+						</div>
+						<div class="contact-text-info">
+							<span>Fax:</span> 647-781-8483
+						</div>
+					</div>
+					<div class="col-md-3 contact-content">
+						<div class="style-icon-1 general_bg">
+							<i class="icon-envelope-alt"></i>
+						</div>
+						<div class="contact-text-info">
+							<span>Mail:</span> info@accentjanitorial.com
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				</div><div class="divider-1"></div> </div><div class="col-md-12 column"><div class="contact-form">
+					<script>
+						var url_js = "http://www.accentjanitorial.com/template/assets/php/contact_form/";
+					</script>
+					<form method="post" id="form-ajax">
+						<div class="row">
+							<div class="col-md-6">
+								<textarea name="message" placeholder="Message..." id="message-contact"></textarea>
+							</div>
+							<div class="col-md-6">
+								<input type="text" name="personal" placeholder="Your name (required)" id="personal" />
+								<input type="text" name="email" placeholder="Your email (required)" id="email" />
+								<input type="text" name="website" placeholder="Website" id="website" />
+								<input type="hidden" name="my_email" value="info@accentjanitorial.com" />
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="contact-button general_bg">
+									<i class="icon-envelope"></i>
+									<input type="submit" name="send" value="&nbsp;" id="submit-contact" />
+								</div>
+							</div>
+						</div>
+					</form>
+				</div>
+				<div class="contact-success">
+					<h2 class="contact-text">Thank you for your message. We will try to answer as soon as possible.</h2>
+				</div> </div></p>
+					 
+				</div>
+			</div>
+					</div>	
+							
+<div id="google-maps" style="" class="img_size clearfix text-edit slide-menu">
+				
+										
+						<div id="google-map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2882.910966369679!2d-79.30051000000002!3d43.7331764!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cde59b6b83c1%3A0x6da35113bd669ebd!2s944+Pharmacy+Ave%2C+Scarborough%2C+ON+M1R+2G3%2C+Kanada!5e0!3m2!1str!2s!4v1422123852659" width="600" height="450" frameborder="0" style="border:0"></iframe></iframe></div>
+					</div>	
+					 
+		<!-- FOOTER -->
+				<div id="backtop">
+		<i class="icon-angle-up"></i>
+		</div>
+				<footer id="footer" class="general_bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<p class="copyright">@2015 - Accent Janitorial | All rights resevered.</p>
+					</div>
+					<div class="col-md-6 foot-social">
+					<a href="https://www.facebook.com/accentjanitorial" class="social-icon fb-foot"><i class="icon-facebook"></i></a><a href="https://www.twitter.com/accentjntrl" class="social-icon twitter-foot"><i class="icon-twitter"></i></a>					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</footer>
+		
+		
+		<script type='text/javascript' src='http://www.accentjanitorial.com/modules/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.accentjanitorial.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/modules/contact-form-7/includes/js/scripts.js?ver=4.1'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/template/assets/js/jquery.loader.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/template/assets/js/plugins.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/template/assets/js/scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.accentjanitorial.com/template/assets/js/sticky-run.js?ver=1.0.0'></script>
+<script type="text/javascript">
+jQuery(window).load(function () {
+	if(!isMobile.any()) jQuery(".home_parallax").parallax("50%", "0.4");
+});
+
+</script>
+	</body>
+</html>
